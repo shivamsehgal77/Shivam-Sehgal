@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Shivam-Sehgal/static/css/main.5c5d7519.css",
-    "main.js": "/Shivam-Sehgal/static/js/main.bdb67c95.js",
+    "main.css": "/Shivam-Sehgal/static/css/main.0afb0851.css",
+    "main.js": "/Shivam-Sehgal/static/js/main.c3a354af.js",
     "index.html": "/Shivam-Sehgal/index.html",
-    "main.5c5d7519.css.map": "/Shivam-Sehgal/static/css/main.5c5d7519.css.map",
-    "main.bdb67c95.js.map": "/Shivam-Sehgal/static/js/main.bdb67c95.js.map"
+    "main.0afb0851.css.map": "/Shivam-Sehgal/static/css/main.0afb0851.css.map",
+    "main.c3a354af.js.map": "/Shivam-Sehgal/static/js/main.c3a354af.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c5d7519.css",
-    "static/js/main.bdb67c95.js"
+    "static/css/main.0afb0851.css",
+    "static/js/main.c3a354af.js"
   ]
 }
